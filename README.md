@@ -107,6 +107,6 @@ The pseudocode for this file is:
 
 # Conclusion
 
-Overall doing this course work taught us a lot about how hardware handles code, and how low-level languages work. Learning assembly was particularly challenging and taught us a how hardware in controlled. Being computing and electronics students, this coursework was invaluable to us as it taught us about the interface between the hardware and software.
+Overall doing this course work taught me a lot about how hardware handles code, and how low-level languages work. Learning assembly was particularly challenging and taught me a how hardware in controlled. Being computing and electronics students, this coursework was invaluable to me as it taught me about the interface between the hardware and software.
 
-I think I have achieved all the functionality that was asked of us, and I added in a few more additional features (message screens on the LCD) for fun. In summary, I really enjoyed doing this coursework and have learnt a lot, I will carry this knowledge and experience that I gained from this coursework throughout the rest of our education and career as this course was very relevant to our degree (Computing and Electronics).
+I think I have achieved all the functionality that was asked of us, and I added in a few more additional features (message screens on the LCD) for fun. In summary, I really enjoyed doing this coursework and have learnt a lot, I will carry this knowledge and experience that I gained from this coursework throughout the rest of my education and career(worked as embedded software from 2020 - 2021) as this course was very relevant to my degree (Computing and Electronics).
