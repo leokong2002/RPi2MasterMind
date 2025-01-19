@@ -36,8 +36,10 @@ The application must provide the following functionality (see the sample sequenc
 14. On successful finish, a message “SUCCESS” should be printed on the LCD, followed by the number of attempts required.
 
 Additional Features:
-15. An intro message on LCD showing the game name and our student numbers.
+15. An intro message on LCD showing the game name and the student numbers.
+
 16. A message on LCD while in game showing “Make a guess”.
+
 17. An outro message on LCD, after the success (functionality 14), a message saying, “See you later” and the program terminates with exit code (0).
 
 # Explanation of Code
